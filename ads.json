@@ -4,7 +4,8 @@
       "id": "mango-001",
       "imageUrl": "https://raw.githubusercontent.com/aydentristenadams-stack/banner-ads/main/images/mango%27s_discs_banner.png",
       "mimeType": "image/png",
-      "durationSeconds": 30
+      "durationSeconds": 30,
+      "expiresAt": "2027-01-01T00:00:00Z"
     }
   ]
 }
