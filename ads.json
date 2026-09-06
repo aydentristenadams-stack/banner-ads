@@ -2,7 +2,7 @@
   "ads": [
     {
       "id": "mango-001",
-      "imageUrl": "PASTE_THE_RAW_IMAGE_URL_HERE",
+      "imageUrl": "https://raw.githubusercontent.com/aydentristenadams-stack/banner-ads/main/images/mango%27s_discs_banner.png",
       "mimeType": "image/png",
       "durationSeconds": 30
     }
