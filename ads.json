@@ -2,14 +2,14 @@
   "ads": [
     {
       "id": "mango-001",
-      "imageUrl": "https://raw.githubusercontent.com/aydentristenadams-stack/banner-ads/main/images/mango%27s_discs_banner.png",
+      "imageUrl": "https://raw.githubusercontent.com/aydentristenadams-stack/banner-ads-banners/main/images/mango%27s_discs_banner.png",
       "mimeType": "image/png",
       "durationSeconds": 5,
       "expiresAt": "2027-01-01T00:00:00Z"
-    }
-   {
+    },
+    {
       "id": "mango-002",
-      "imageUrl": "https://raw.githubusercontent.com/aydentristenadams-stack/banner-ads/main/images/mango%27s_discs_2.png",
+      "imageUrl": "https://raw.githubusercontent.com/aydentristenadams-stack/banner-ads-banners/main/images/mango_discs_2.png",
       "mimeType": "image/png",
       "durationSeconds": 5,
       "expiresAt": "2027-01-01T00:00:00Z"
