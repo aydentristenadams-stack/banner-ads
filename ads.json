@@ -1,3 +1,10 @@
 {
-  "ads": []
+  "ads": [
+    {
+      "id": "mango-001",
+      "imageUrl": "PASTE_THE_RAW_IMAGE_URL_HERE",
+      "mimeType": "image/png",
+      "durationSeconds": 30
+    }
+  ]
 }
