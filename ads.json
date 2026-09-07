@@ -13,6 +13,13 @@
       "mimeType": "image/png",
       "durationSeconds": 5,
       "expiresAt": "2027-01-01T00:00:00Z"
+    },
+    {
+      "id": "free-dirt-001",
+      "imageUrl": "https://raw.githubusercontent.com/aydentristenadams-stack/banner-ads-banners/main/images/free_dirt.png",
+      "mimeType": "image/png",
+      "durationSeconds": 5,
+      "expiresAt": "2027-01-01T00:00:00Z"
     }
   ]
 }
